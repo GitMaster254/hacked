@@ -1,5 +1,7 @@
 #!/bin/bash
 
+chmod +x fun_hack_notification.sh
+
 # Function to display the hack notification
 display_hack_notification() {
     # Display the notification
